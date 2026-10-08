@@ -41,7 +41,7 @@ Esses dois arquivos possuem permissão para serem executáveis, porém, caso nã
 **chmod -x <arquivo que deseja alterar>**
 
 
-
+Para utilizar a calculadora, basta executar seu arquivo como foi explicado anteriormente. Ao fazer isso, ela irá dar boas vindas e pedir por valores, basta escolher os valores e depois a operação desejada.
 
 
 Obrigado!
